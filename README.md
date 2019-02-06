@@ -9,7 +9,7 @@ A simple, colorful, fun and (slightly) useful visualizer for your music in iTune
 
 ## To Install
 1. Quit iTunes if it is running
-2. Drag the Cubism icon to the Compositions folder inside of the disk image (or move it to ~/Library/Compositions)
+2. Copy Cubism to ~/Library/Compositions/
 
 ## To Use Cubism
 1. Open iTunes
@@ -22,6 +22,9 @@ A simple, colorful, fun and (slightly) useful visualizer for your music in iTune
 - The artwork cube in the center of colored cubes visually displays the time remaining in the current track moving from left to right as the song progresses.
 
 ## Version History
+### Version 1.2.1 - February 6, 2019
+- Removes .dmg in favor of smaller .zip.
+
 ### Version 1.2 - August 13, 2012
 - Fixes issues that caused track information not to display when changing tracks.
 - Moves display of help to the upper right corner.
