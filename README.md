@@ -22,7 +22,7 @@ A simple, colorful, fun and (slightly) useful visualizer for your music in iTune
 - The artwork cube in the center of colored cubes visually displays the time remaining in the current track moving from left to right as the song progresses.
 
 ## Version History
-### Version 1.2 - August 8, 2012
+### Version 1.2 - August 13, 2012
 - Fixes issues that caused track information not to display when changing tracks.
 - Moves display of help to the upper right corner.
 - Adds hours remaining.
